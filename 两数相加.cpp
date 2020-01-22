@@ -1,3 +1,4 @@
+// 该方法只用于C++语言
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
